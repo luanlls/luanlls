@@ -1,6 +1,6 @@
 ## Eai! Meu nome é Luan Lima.
 
-- 📚 Estou cursando o 2 semestre de Análise e Desenvolvimento de Sistemas na Facens.
+- 📚 Estou cursando o 4 semestre de Análise e Desenvolvimento de Sistemas na Facens.
 - 💻 Aprendendo HTML, CSS e JavaScript.
 - 🌎 Meu objetivo é unir as causas sociais e ambientais com a aréa de tecnologia.
 - 🤖 Pronomes: (Ele/Dele).
